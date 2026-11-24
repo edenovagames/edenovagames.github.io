@@ -1,9 +1,7 @@
-# Edenova Games — GitHub Pages site
+# Edenova Games
 
-A lightweight static publisher profile and ToolDeck landing page.
+A minimal portfolio website for Edenova Games featuring selected work, an embedded ToolDeck demo, and contact links.
 
 ## Publishing
 
-This site uses plain HTML and CSS and does not require a build step. Upload the files in this folder to the root of the `EdenovaGames.github.io` repository, then enable GitHub Pages from the `main` branch and root folder.
-
-The page includes the provided Edenova Games branding, ToolDeck marketing artwork, and the public support email supplied by the publisher.
+Static HTML and CSS served from the `main` branch root of the `EdenovaGames.github.io` repository. No build step is required.
